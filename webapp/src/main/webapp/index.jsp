@@ -29,7 +29,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
         </div>
         <div class="w3-container">
-            <h2>RAHUL MYAKAL</h2>
+            <h2>RAHUL CHANDAN MYAKAL</h2>
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Graduation in IT</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>MUMBAI, BHIWANDI</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"><a href="https://mail.google.com"></i>rahulmyakal2002@gmail.com</p></a>
